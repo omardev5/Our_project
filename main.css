@@ -47,3 +47,18 @@ input:focus{
 #total::before{
     content: 'total: ';
 }
+button{
+    width: 100%;
+    height: 30px;
+    border: none;
+    cursor: pointer;
+    background-color: gold;
+    color:#fff;
+    border-radius:20px ;
+    transition: 0.5px
+}
+
+button:hover{
+    background-color:rgb(212, 185, 32) ;
+    letter-spacing: 1px;
+}
