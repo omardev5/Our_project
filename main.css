@@ -6,5 +6,9 @@
 body{
     background-color: '#222';
     color: white;
-    font-family: ;
+    font-family: system-ui;
+}
+.crud{
+    width: 80%;
+    margin: auto;
 }
